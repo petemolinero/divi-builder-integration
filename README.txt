@@ -36,5 +36,8 @@ In order for this plugin to work, you MUST have the Divi theme by Elegant Themes
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Fixed options bug caused by WP 3.9.2 udpate.
+
+= 1.0.0 =
 * Initial release

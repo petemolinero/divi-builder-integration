@@ -194,7 +194,6 @@ class Divi_Builder_Integration_Admin {
 	 */
 	public function register_settings_and_fields() {
 
-		delete_option( 'dbi_settings' );
 
 		/* If the options do not exist then create them*/
 		if ( false == get_option( 'dbi_settings' ) ) {
